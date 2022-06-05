@@ -26,5 +26,13 @@
     {
         "question": "who am I",
         "answer": "Your are my boss,friends everything"
+    },
+     {
+        "question": "make a joke",
+        "answer": "bogie bogie bogie aww"
+    },
+    {
+        "question": "test your voice",
+        "answer": "The birch canoe slid on the smooth planks"
     }
 ]
